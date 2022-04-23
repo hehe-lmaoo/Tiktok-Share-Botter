@@ -2,7 +2,7 @@
 <div align="center">
 
 # TikTok Share Botter
-Fastest multi-threaded and proxyless TikTok Share Botter to increase share count on videos. Click <a href="https://github.com/useragents/TikTok-Share-Botter/issues">here</a> to report bugs.
+Fastest multi-threaded and proxyless TikTok Share Botter to increase share count on videos. Click <a href="https://github.com/lol-jude/TikTok-Share-Botter/issues">here</a> to report bugs.
   
 ![image](https://user-images.githubusercontent.com/103281345/164895080-0a78e242-291d-4540-a503-90e6dc3954d3.png)
   
@@ -19,4 +19,4 @@ Fastest multi-threaded and proxyless TikTok Share Botter to increase share count
 
 ### Please note
 
-I am not responsible for your actions using this script. YouTube Tutorial: https://www.youtube.com/watch?v=Y7batTtaBxg
+I am not responsible for your actions using this script.
