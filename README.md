@@ -4,7 +4,7 @@
 # TikTok Share Botter
 Fastest multi-threaded and proxyless TikTok Share Botter to increase share count on videos. Click <a href="https://github.com/lol-jude/TikTok-Share-Botter/issues">here</a> to report bugs.
   
-![image]share_botter.png)
+![image]https://cdn.discordapp.com/attachments/950649680302321744/967524695060676638/share_botter.png)
   
 </div>
 
